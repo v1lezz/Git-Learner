@@ -1,8 +1,8 @@
 # Шпаргалка по работе с Git
 ## Cодержание
-- [Установка Git](https://github.com/v1lezz/Git-Learner/README.md#установка-git)
-- [Проверка наличия Git в системе и ее версии](https://github.com/v1lezz/Git-Learner/README.md#проверка-наличия-git-в-системе-и-ее-версии)
-- [Настройка Git](https://github.com/v1lezz/Git-Learner/README.md#настройка-git)
+- [Установка Git](https://github.com/v1lezz/Git-Learner#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-git)
+- [Проверка наличия Git в системе и ее версии](https://github.com/v1lezz/Git-Learner#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-git)
+- [Настройка Git](https://github.com/v1lezz/Git-Learner#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-git)
 	
 ## Установка Git
 ### Windows	
